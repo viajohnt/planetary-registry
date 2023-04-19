@@ -1210,6 +1210,27 @@
       "climate": "cold",
       "terrain": "rocky",
       "population": "1"
+    },
+    {
+      "id": 62,
+      "name": "ELi",
+      "climate": "hot",
+      "terrain": "grassy",
+      "population": "70"
+    },
+    {
+      "id": 63,
+      "name": "rabbits",
+      "climate": "cold",
+      "terrain": "oceans",
+      "population": "23"
+    },
+    {
+      "id": 64,
+      "name": "as",
+      "climate": "cool",
+      "terrain": "rocky",
+      "population": "73"
     }
   ]
 }
